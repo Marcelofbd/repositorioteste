@@ -162,10 +162,8 @@ Ryan Lanziloti de Faria Teixeira | DEV | [Github](https://github.com/Pirajui)
 ## Equipe <br id=g>
 
 [<img src="https://github.com/isadorarocsilva/repositorioteste/blob/main/perfis/anaperfil.jpg?raw=true" width=115 > <br> <sub> Ana Flávia Damasceno Silva - DEV </sub>](https://github.com/anadamascenos) | [<img src="https://github.com/isadorarocsilva/repositorioteste/blob/main/perfis/caioperfil.jpg?raw=true" width=115 > <br> <sub> Caio Matheus de Sousa - PO </sub>](https://github.com/Caio-sousaFatec) | [<img src="https://github.com/isadorarocsilva/repositorioteste/blob/main/perfis/cauanaperfil.png?raw=true" width=115 > <br> <sub> Cauana Dias Costa - DEV </sub>](https://github.com/Cauana) |  [<img src="https://github.com/isadorarocsilva/repositorioteste/blob/main/perfis/felipeperfil.jpg?raw=true" width=115 > <br> <sub> Felipe Cesar - DEV </sub>](https://github.com/flpcsr) |  [<img src="https://github.com/isadorarocsilva/repositorioteste/blob/main/perfis/gabrielperfil.png?raw=true" width=115 > <br> <sub> Gabriel Soares da Silva - DEV </sub>](https://github.com/GabrielSSilva123) |
-| :---: | :---: | :---: | :---: | :---: |
-
+| :---: | :---: | :---: | :---: | :---:|
 [<img src="https://github.com/isadorarocsilva/repositorioteste/blob/main/perfis/isadoraperfil.jpeg?raw=true" width=115 > <br> <sub> Isadora Rocha da Silva - SM </sub>](https://github.com/isadorarocsilva) | [<img src="https://github.com/isadorarocsilva/repositorioteste/blob/main/perfis/marceloperfil.jpg?raw=true" width=115 > <br> <sub> Marcelo Felipe Borges Diógenes - DEV </sub>](https://github.com/Marcelofbd) | [<img src="https://github.com/isadorarocsilva/repositorioteste/blob/main/perfis/mikaelaperfil.jpg?raw=true" width=115 > <br> <sub> Mikaéla Petronilho Begotti Cardoso - DEV </sub>](https://github.com/MikaelaBgtt) |  [<img src="https://github.com/isadorarocsilva/repositorioteste/blob/main/perfis/muriloperfil.jpg?raw=true" width=115 > <br> <sub> Murilo Brissi - DEV </sub>](https://github.com/Murilobss) |  [<img src="https://github.com/isadorarocsilva/repositorioteste/blob/main/perfis/ryanperfil.jpg?raw=true" width=115 > <br> <sub> Ryan Lanziloti de Faria Teixeira - DEV </sub>](https://github.com/Pirajui) |
-| :---: | :---: | :---: | :---: | :---: |
 
 <br/>
 
